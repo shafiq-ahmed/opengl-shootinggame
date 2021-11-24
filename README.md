@@ -4,7 +4,7 @@ An OpenGL C++ gaming project. The game runs for 30 seconds, after this time the 
 
 ## Instructions
 
-Use J and K keys to steer the canon left and right. Press R to fire.
+Use J and L keys to steer the canon left and right. Press R to fire.
 
 **1. Collision Detection**
 
