@@ -1,6 +1,6 @@
 # Airplane Shooter
 
-An OpenGL C++ gaming project. The game runs for a 30 seconds, after this time the game ends and the score of the player is shown.
+An OpenGL C++ gaming project. The game runs for 30 seconds, after this time the game ends and the score of the player is shown.
 
 ## Instructions
 
