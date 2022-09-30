@@ -1,7 +1,5 @@
 # Airplane Shooter
 
-An OpenGL C++ gaming project. The game runs for 30 seconds, after this time the game ends and the score of the player is shown.
-
 ## Instructions
 
 Use J and L keys to steer the canon left and right. Press R to fire.
